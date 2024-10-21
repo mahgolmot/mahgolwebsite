@@ -11,7 +11,7 @@
 
 body {
   font-family: persian;
-  background-color: #000000;
+  background-color: #c80000;
 }
 .navbar {
   direction: rtl;
@@ -387,11 +387,9 @@ div.circl4::before {
   color: #b51b75;
   font-size: 35px;
   border-bottom: 1px solid black;
-
   direction: rtl;
-  align-items: end;
   margin: 0 auto;
-  margin-left: 430px;
+  word-wrap: nowrap;
   margin-top: 150px;
   margin-bottom: 40px;
 }
