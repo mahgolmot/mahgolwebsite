@@ -11,7 +11,7 @@
 
 body {
   font-family: persian;
-  background-color: #ffbb00;
+  background-color: #000000;
 }
 .navbar {
   direction: rtl;
@@ -43,7 +43,7 @@ body {
   box-shadow: 5px 5px 5px rgb(79, 79, 79);
   border-bottom: 3px solid black;
   font-size: 20px;
-  color: black;
+  color: black !important;
   transition: all 300ms linear;
 }
 .banner .content {
@@ -66,12 +66,6 @@ body {
 }
 .textHeroS h1 {
   font-size: 50px;
-}
-
-p#myTypingText {
-  direction: rtl;
-  font-size: 30px;
-  font-weight: bold;
 }
 
 .banner .content2 {
