@@ -389,7 +389,7 @@ div.circl4::before {
   border-bottom: 1px solid black;
   direction: rtl;
   margin: 0 auto;
-  word-wrap: nowrap;
+
   margin-top: 150px;
   margin-bottom: 40px;
 }
